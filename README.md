@@ -21,3 +21,9 @@ Hi I am a transfer student coming into NIU for spring 2021. I never took offical
   * Loops
   * Symbolic Constants
   * Random Numbers
+* Program 6
+ * Functions
+* Program 7
+ * Arrays
+  * Building
+  * Sorting
