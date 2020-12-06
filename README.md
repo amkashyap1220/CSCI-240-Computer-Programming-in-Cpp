@@ -30,4 +30,4 @@ Hi I am a transfer student coming into NIU for spring 2021. I never took offical
 * Program 8
   * Classes
   
-Dec. 03, 2020 --> TBA 
+Dec. 03, 2020 --> WIP
