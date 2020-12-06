@@ -27,3 +27,5 @@ Hi I am a transfer student coming into NIU for spring 2021. I never took offical
   * Arrays
     * Building
     * Sorting
+* Program 8
+  * Classes
