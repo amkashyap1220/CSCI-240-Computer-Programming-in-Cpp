@@ -34,6 +34,5 @@ Hi I am a transfer student coming into NIU for spring 2021. I never took offical
   * Classes
   * String Processing
  
-Update:
-
-Finished! Dec. 03, 2020 --> Dec. 07, 2020
+Start Date: Dec. 03, 2020 
+End Date: Dec. 07, 2020
