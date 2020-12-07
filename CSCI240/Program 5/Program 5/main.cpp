@@ -1,9 +1,12 @@
-//
-//  main.cpp
-//  Program 5
-//
-//  Created by Alexander Kashyap on 12/3/20.
-//
+/***************************************************************
+ CSCI 240         Program 5     Fall 2020
+ @author Alexander Kashyap
+ @file main.cpp
+ @version 1.0
+ Section: N/A
+ Date Due: N/A
+ Purpose:  a program that will calculate how much a person would earn over a finite (random) period of time if their salary is a random amount for the first day and continues to double each day for three different jobs.
+***************************************************************/
 
 #include <iostream>
 #include <cstdlib>

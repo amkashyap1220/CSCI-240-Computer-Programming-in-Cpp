@@ -1,10 +1,13 @@
-//
-//  main.cpp
-//  Program 4
-//
-//  Created by Alexander Kashyap on 12/3/20.
-//
 
+/***************************************************************
+ CSCI 240         Program 4    Fall 2020
+ @author Alexander Kashyap
+ @file main.cpp
+ @version 1.0
+ Section: N/A
+ Date Due: N/A
+ Purpose: a program that will generate three randomly sized sets of random numbers
+***************************************************************/
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>

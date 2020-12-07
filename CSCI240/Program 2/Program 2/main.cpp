@@ -1,9 +1,12 @@
-//
-//  main.cpp
-//  Program 2
-//
-//  Created by Alexander Kashyap on 12/3/20.
-//
+/***************************************************************
+ CSCI 240         Program 2    Fall 2020
+ @author Alexander Kashyap
+ @file main.cpp
+ @version 1.0
+ Section: N/A
+ Date Due: N/A
+ Purpose: a program that will calculate team shooting percentages 
+***************************************************************/
 
 #include <iostream>
 #include <iomanip>
