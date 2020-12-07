@@ -24,12 +24,16 @@ Hi I am a transfer student coming into NIU for spring 2021. I never took offical
 * Program 6
   * Functions
 * Program 7
-  * Arrays
-    * Building
-    * Sorting
+  * Arrays (building and sorting)
+    * Selection Sort
 * Program 8
   * Classes
 * Program 9
   * Classes
-  
-Dec. 03, 2020 --> WIP
+* Program 10
+  * Classes
+  * String Processing
+ 
+Update:
+
+Finished! Dec. 03, 2020 --> Dec. 07, 2020
