@@ -2,9 +2,9 @@
 All of the programming assignments (Programs 0–10) for CSCI 240, Computer Programming in C++, at NIU. Each solution was checked against the expected output and tests on the [course site](http://faculty.cs.niu.edu/~byrnes/csci240/).
 
 # About
-I worked through all of these on my own over winter 2020, before transferring to NIU in spring 2021. I wanted as much C++ practice as I could get before CSCI 241, and CSCI 240 is its prerequisite, so I did every project. It was my first time with C++; before that I had mostly used Java, Python, and some C#. I only moved on to the next program once my output matched the expected output and I'd met the extra credit requirements too.
+I tested out of CSCI 240, but I still wanted the practice, so I worked through all of its programming assignments on my own to get ready for CSCI 241. It was my first time with C++; before that I had mostly used Java, Python, and some C#. I only moved on to the next program once my output matched the expected output and I'd met the extra credit requirements too.
 
-I later went on to be a TA for CSCI 240, and made video walkthroughs of the programs that explain how each one works:
+After that, I was a TA for CSCI 240. Once I'd TA'd the course, I made video walkthroughs of the programs to help students working through them:
 * [CSCI 240: Programs 0-3](https://www.youtube.com/watch?v=yA1VFemd_IQ)
 * [CSCI 240: Programs 4-5](https://www.youtube.com/watch?v=jAN0W0p2pn8)
 
